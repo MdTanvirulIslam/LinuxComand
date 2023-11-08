@@ -1,0 +1,65 @@
+59  ls
+   60  cd ../
+   61  pwd
+   62  cd TestGit/
+   63  mddir LinuxCommand
+   64  mkdir LinuxCommand
+   65  cd LinuxCommand/
+   66  cd ../
+   67  ls
+   68  rm LinuxCommand/
+   69  rmdir LinuxCommand/
+   70  ls
+   71  mkdir LinuxCommand
+   72  cd LinuxCommand/
+   73  touch commandlist.txt
+   74  rm commandlist.txt 
+   75  ls
+   76  touch commandlist
+   77  mv commandlist TestGit
+   78  ls
+   79  cd../
+   80  cd ../
+   81  ls
+   82  cd LinuxCommand/
+   83  ls
+   84  cd TestGit
+   85  open TestGit 
+   86  cat TestGit 
+   87  open TestGit 
+   88  less TestGit 
+   89  more TestGit 
+   90  head TestGit 
+   91  tail TestGit 
+   92  nano TestGit 
+   93  cat TestGit 
+   94  vi TestGit 
+   95  grep TestGit 
+   96  grep Hello TestGit 
+   97  find .-name "*.text"
+   98  find .-LinuxCommand '*.text'
+   99  find . -name '*.text'
+  100  ps
+  101  kill
+  102  top
+  103  htop
+  104  sudo snap install htop
+  105  htop
+  106  df
+  107  du
+  108  ifconfig
+  109  sudo apt install net-tools
+  110  ifconfig
+  111  ip
+  112  history
+  113  free
+  114  date
+  115  hostname
+  116  crontab
+  117  lsof
+  118  cd ../
+  119  lsof
+  120  file
+  121  file.txt
+  122  history
+
